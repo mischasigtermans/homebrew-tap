@@ -7,10 +7,11 @@ Homebrew formulae for the tools Mischa Sigtermans ships.
 ## Installation
 
 ```sh
+brew trust mischasigtermans/tap
 brew install mischasigtermans/tap/clauset-cli
 ```
 
-Homebrew adds the tap on the first install.
+Homebrew 6 and later load a formula from a tap outside its own only once you trust that tap. The second line adds the tap and installs.
 
 ## Formulae
 
