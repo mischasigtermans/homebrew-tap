@@ -1,8 +1,8 @@
 class ClausetCli < Formula
   desc "Run several Claude Code accounts on one Mac, sharing one ~/.claude"
   homepage "https://clauset.app"
-  url "https://github.com/mischasigtermans/clauset/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "a8bf5633f154bae8372de073f1a7b87e8511b5ea1837d844899c1908ad2cdccf"
+  url "https://github.com/mischasigtermans/clauset/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "3feb16bb7fbef41a0c4f443d6af99b519bc13cb222b974a53fd2f7f56e104f1b"
   license "MIT"
   head "https://github.com/mischasigtermans/clauset.git", branch: "main"
 
